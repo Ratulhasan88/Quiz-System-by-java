@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  }
+]
