@@ -11,3 +11,9 @@
 - Log In: Students can log in using their credentials.
 - Take Quiz: They can take a quiz consisting of randomly selected MCQs from the question bank.
 - Receive Score: Students receive scores based on their answers and see feedback based on their performance.
+
+
+
+https://github.com/Ratulhasan88/Quiz-System-by-java/assets/135263807/729c77ad-3fca-4440-a58c-26d74bed0efb
+
+
