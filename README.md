@@ -5,7 +5,6 @@
 ## For Admins:
 - Log In: Admins can log in using their credentials.
 - Add Questions: They can add new MCQs to the question bank.
-- Save to JSON: Questions, along with four options and answer keys, are saved to a quiz.json file.
 
 ## Students:
 - Log In: Students can log in using their credentials.
