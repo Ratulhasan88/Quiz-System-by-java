@@ -3,11 +3,11 @@
 
 # Key Features
 ## For Admins:
--- Log In: Admins can log in using their credentials.
--- Add Questions: They can add new MCQs to the question bank.
--- Save to JSON: Questions, along with four options and answer keys, are saved to a quiz.json file.
+- Log In: Admins can log in using their credentials.
+- Add Questions: They can add new MCQs to the question bank.
+- Save to JSON: Questions, along with four options and answer keys, are saved to a quiz.json file.
 
 ## Students:
--- Log In: Students can log in using their credentials.
--- Take Quiz: They can take a quiz consisting of randomly selected MCQs from the question bank.
--- Receive Score: Students receive scores based on their answers and see feedback based on their performance.
+- Log In: Students can log in using their credentials.
+- Take Quiz: They can take a quiz consisting of randomly selected MCQs from the question bank.
+- Receive Score: Students receive scores based on their answers and see feedback based on their performance.
